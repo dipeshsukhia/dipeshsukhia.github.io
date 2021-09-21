@@ -1191,3 +1191,16 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.darkmode--activated p,.darkmode--activated p a, .darkmode--activated li,.darkmode--activated .skill,
+.darkmode--activated h2,.darkmode--activated h3,.darkmode--activated h5,.darkmode--activated h4,.darkmode--activated h4 a, .darkmode--activated li a {
+  color: #ffffff!important;
+}
+.darkmode--activated .info,.darkmode--activated .resume-item > h5{
+  background: #000;
+}
+.darkmode--activated .nav-link{
+  background: #0563bb;
+}
+.darkmode--activated .icon-box{
+  background: #0563bb;
+}
