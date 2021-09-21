@@ -1191,6 +1191,12 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.back-to-top{
+  left: 22px;
+  width: 50px;
+  height: 50px;
+  z-index: 9999;
+}
 .darkmode--activated p,.darkmode--activated p a, .darkmode--activated li,.darkmode--activated .skill,
 .darkmode--activated h2,.darkmode--activated h3,.darkmode--activated h5,.darkmode--activated h4,.darkmode--activated h4 a, .darkmode--activated li a {
   color: #ffffff!important;
@@ -1203,4 +1209,7 @@ section {
 }
 .darkmode--activated .icon-box{
   background: #0563bb;
+}
+.darkmode-toggle {
+  z-index: 500;
 }
