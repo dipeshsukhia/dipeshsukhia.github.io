@@ -1,6 +1,6 @@
 {
   "name": "DipeshSukhia",
-  "short_name": "Dipesh_Sukhia",
+  "short_name": "Dipesh",
   "name": "DipeshSukhia: Software Engineer",
   "start_url":"https://dipeshsukhia.github.io/",
   "display":"standalone",
@@ -41,25 +41,13 @@
       "sizes": "48x48"
     }
   ],
-  "start_url": "/?source=pwa",
-  "background_color": "#3367D6",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#3367D6",
   "shortcuts": [
     {
-      "name": "How's weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
-      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
-    },
-    {
-      "name": "How's weather tomorrow?",
-      "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+      "name": "DipeshSukhia",
+      "short_name": "Dipesh",
+      "description": "Dipesh Sukhia - Having good experience in Laravel 5 and above. I have been worked with various projects which includes challenging and complex structures of the project like matrimonial, job kind of portal, food delivery, betting portal, payment portal, websites, app builds management etc.",
+      "url": "/",
+      "icons": [{ "src": "favicon/android-launchericon-192-192.png", "sizes": "192x192" }]
     }
   ],
   "description": "Dipesh Sukhia - Having good experience in Laravel 5 and above. I have been worked with various projects which includes challenging and complex structures of the project like matrimonial, job kind of portal, food delivery, betting portal, payment portal, websites, app builds management etc."
