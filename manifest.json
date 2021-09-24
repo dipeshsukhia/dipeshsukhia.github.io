@@ -1,0 +1,66 @@
+{
+  "name": "DipeshSukhia",
+  "short_name": "Dipesh_Sukhia",
+  "name": "DipeshSukhia: Software Engineer",
+  "start_url":"https://dipeshsukhia.github.io/",
+  "display":"standalone",
+  "theme_color":"#0563bb",
+  "background_color":"#0563bb",
+  "orientation":"any",
+  "status_bar":"#0563bb",
+
+  "icons": [
+    {
+      "src": "favicon/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "favicon/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon/android-launchericon-144-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "favicon/android-launchericon-96-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "favicon/android-launchericon-72-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "favicon/android-launchericon-48-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "How's weather today?",
+      "short_name": "Today",
+      "description": "View weather information for today",
+      "url": "/today?source=pwa",
+      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "How's weather tomorrow?",
+      "short_name": "Tomorrow",
+      "description": "View weather information for tomorrow",
+      "url": "/tomorrow?source=pwa",
+      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+    }
+  ],
+  "description": "Dipesh Sukhia - Having good experience in Laravel 5 and above. I have been worked with various projects which includes challenging and complex structures of the project like matrimonial, job kind of portal, food delivery, betting portal, payment portal, websites, app builds management etc."
+}
