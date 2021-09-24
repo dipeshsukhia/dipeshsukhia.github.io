@@ -29,7 +29,6 @@ var filesToCache = [
     'assets/img/testimonials/karan-dave.jpg',
     'assets/img/testimonials/rajnesh-rathor.jpg',
     'assets/img/testimonials/fenil-chauhan.jpg',
-    'assets/img/hero-bg.jpg',
 
     'assets/vendor/aos/aos.js',
     'assets/vendor/bootstrap/js/bootstrap.bundle.min.js',
