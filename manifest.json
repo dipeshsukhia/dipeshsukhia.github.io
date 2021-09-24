@@ -11,22 +11,22 @@
 
   "icons": [
     {
-      "src": "favicon/android-launchericon-512-512.png",
+      "src": "assets/img/favicon/android-launchericon-512-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "favicon/android-launchericon-192-192.png",
+      "src": "assets/img/favicon/android-launchericon-192-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "favicon/android-launchericon-144-144.png",
+      "src": "assets/img/favicon/android-launchericon-144-144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "favicon/android-launchericon-96-96.png",
+      "src": "assets/img/favicon/android-launchericon-96-96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
