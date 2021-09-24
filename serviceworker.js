@@ -26,7 +26,6 @@ var filesToCache = [
     'assets/img/testimonials/prashant-shah.jpg',
     'assets/img/testimonials/monika-prajapati.jpg',
     'assets/img/testimonials/karan-dave.jpg',
-    'assets/img/testimonials/karan-dave.jpg',
     'assets/img/testimonials/rajnesh-rathor.jpg',
     'assets/img/testimonials/fenil-chauhan.jpg',
 
