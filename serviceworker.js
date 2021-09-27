@@ -52,20 +52,6 @@ var filesToCache = [
     'assets/vendor/waypoints/noframework.waypoints.js',
     'assets/js/main.js',
     'assets/js/darkmode-js.min.js',
-
-    /*'https://fonts.gstatic.com/s/raleway/v22/1Ptug8zYS_SKggPNyC0ITw.woff2',
-    'https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2',
-    'https://fonts.gstatic.com/s/opensans/v26/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2',
-    'https://fonts.gstatic.com/s/opensans/v26/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2',
-    'https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2',
-    'https://fonts.googleapis.com/icon?family=Material+Icons+Extended',
-    'https://www.gstatic.com/_/freebird/_/ss/k=freebird.v.2fkh4skn3txy.L.W.O/d=1/rs=AMjVe6h_nvRNliQ0VqwAatd15Ve6irIk9Q',
-    'https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,400i,500,700&subset=latin,vietnamese,latin-ext,cyrillic,greek,cyrillic-ext,greek-ext',
-    'https://fonts.googleapis.com/css?family=Product+Sans&subset=latin,vietnamese,latin-ext,cyrillic,greek,cyrillic-ext,greek-ext',
-    'https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_dark_clr_74x24px.svg',
-    'https://www.gstatic.com/_/freebird/_/js/k=freebird.v.en.mgUK68J9j1o.O/d=1/rs=AMjVe6jwZYrUeaU0MnW-5qv7PW11oBi5xw/m=viewer_base',
-    'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i'*/
-
 ];
 
 // Cache on install
