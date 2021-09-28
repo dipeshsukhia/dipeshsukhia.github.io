@@ -309,10 +309,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .social-links a {
-  font-size: 24px;
+  font-size: 26px;
   display: inline-block;
   color: #45505b;
-  line-height: 1;
+  line-height: 1.5;
   margin-right: 20px;
   transition: 0.3s;
 }
@@ -1004,7 +1004,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #eef7ff;
+  background: #c8ddf0;
   display: flex;
   justify-content: center;
   align-items: center;
