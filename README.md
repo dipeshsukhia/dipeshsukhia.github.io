@@ -6,6 +6,6 @@
 
 > I'm Dipesh Sukhia, Software Developer extraordinaire. Welcome to my GitHub profile.
 
-> From India.
+> From INDIA.
 
 My personal website is [dipeshsukhia.github.io](https://dipeshsukhia.github.io/).
